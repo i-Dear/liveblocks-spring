@@ -6,7 +6,6 @@ plugins {
 }
 
 group = 'io.liveblocks'
-version = 'SNAPSHOT'
 
 java {
     sourceCompatibility = '17'
