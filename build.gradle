@@ -16,7 +16,7 @@ bootJar {
 }
 
 jar {
-    archiveFileName = 'spring.jar'
+//    archiveFileName = 'spring.jar'
 }
 
 
