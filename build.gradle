@@ -6,6 +6,7 @@ plugins {
 }
 
 group = 'io.liveblocks'
+//version = 'SNAPSHOT'
 
 java {
     sourceCompatibility = '17'
@@ -15,8 +16,9 @@ bootJar {
 }
 
 jar {
-    enabled=true
+    archiveFileName = 'spring.jar'
 }
+
 
 
 configurations {
